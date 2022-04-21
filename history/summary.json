@@ -34,7 +34,7 @@
     "timeMonth": 104,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2022-04-21": 537
+      "2022-04-21": 561
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "redmine",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "95.66%",
+    "uptimeDay": "95.66%",
+    "uptimeWeek": "95.66%",
+    "uptimeMonth": "95.66%",
+    "uptimeYear": "95.66%",
     "time": 115,
     "timeDay": 115,
     "timeWeek": 115,
     "timeMonth": 115,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2022-04-21": 0
+      "2022-04-21": 24
     }
   },
   {
@@ -98,17 +98,19 @@
     "url": "$SITE_6",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "intg-app",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 51,
     "timeDay": 51,
     "timeWeek": 51,
     "timeMonth": 51,
     "timeYear": 51,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-21": 0
+    }
   }
 ]
