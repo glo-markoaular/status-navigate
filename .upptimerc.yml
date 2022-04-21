@@ -4,11 +4,11 @@ repo: status-navigate # The name of this repository
 
 sites:
   - name: Navigate
-    url: https://ga-navigate.com/
+    url: $SITE_1
   - name: Rancher
-    url: https://monitor.ga-navigate.com
+    url: $SITE_2
   - name: Redmine
-    url: https://support.ga-navigate.com/
+    url: $SITE_3
 
 status-website:
   baseUrl: /status-navigate
