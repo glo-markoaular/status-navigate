@@ -12,7 +12,7 @@ sites:
   - name: CMS
     url: $SITE_4
   - name: APP
-    url: https://google.com
+    url: $SITE_5
 
 status-website:
   baseUrl: /status-navigate
