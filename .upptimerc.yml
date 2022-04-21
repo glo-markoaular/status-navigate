@@ -9,6 +9,10 @@ sites:
     url: $SITE_2
   - name: Redmine
     url: $SITE_3
+  - name: CMS
+    url: $SITE_4
+  - name: APP
+    url: $SITE_5
 
 status-website:
   baseUrl: /status-navigate
