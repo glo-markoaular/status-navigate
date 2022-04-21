@@ -9,8 +9,6 @@ sites:
     url: https://monitor.ga-navigate.com
   - name: Redmine
     url: https://support.ga-navigate.com/
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
