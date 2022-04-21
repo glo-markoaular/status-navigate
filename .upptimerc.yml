@@ -13,6 +13,8 @@ sites:
     url: $SITE_4
   - name: APP
     url: $SITE_5
+  - name: INTG-APP
+    url: $SITE_6
 
 status-website:
   baseUrl: /status-navigate
