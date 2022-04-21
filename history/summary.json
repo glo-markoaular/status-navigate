@@ -34,7 +34,7 @@
     "timeMonth": 101,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2022-04-21": 123
+      "2022-04-21": 125
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "$SITE_5",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "app",
-    "status": "down",
-    "uptime": "99.01%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.01%",
-    "uptimeMonth": "99.01%",
-    "uptimeYear": "99.01%",
-    "time": 81,
-    "timeDay": 81,
-    "timeWeek": 81,
-    "timeMonth": 81,
-    "timeYear": 81,
+    "status": "up",
+    "uptime": "91.44%",
+    "uptimeDay": "91.44%",
+    "uptimeWeek": "91.44%",
+    "uptimeMonth": "91.44%",
+    "uptimeYear": "91.44%",
+    "time": 84,
+    "timeDay": 84,
+    "timeWeek": 84,
+    "timeMonth": 84,
+    "timeYear": 84,
     "dailyMinutesDown": {
-      "2022-04-21": 0
+      "2022-04-21": 2
     }
   }
 ]
