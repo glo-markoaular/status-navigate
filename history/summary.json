@@ -4,18 +4,20 @@
     "url": "$SITE_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "navigate",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
     "time": 172,
     "timeDay": 172,
     "timeWeek": 172,
     "timeMonth": 172,
     "timeYear": 172,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-22": 2
+    }
   },
   {
     "name": "Rancher",
@@ -34,7 +36,7 @@
     "timeMonth": 104,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2022-04-22": 239,
+      "2022-04-22": 242,
       "2022-04-21": 621
     }
   },
@@ -44,18 +46,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "redmine",
     "status": "down",
-    "uptime": "62.45%",
-    "uptimeDay": "62.45%",
-    "uptimeWeek": "62.45%",
-    "uptimeMonth": "62.45%",
-    "uptimeYear": "62.45%",
+    "uptime": "62.17%",
+    "uptimeDay": "62.17%",
+    "uptimeWeek": "62.17%",
+    "uptimeMonth": "62.17%",
+    "uptimeYear": "62.17%",
     "time": 116,
     "timeDay": 116,
     "timeWeek": 116,
     "timeMonth": 116,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2022-04-22": 239,
+      "2022-04-22": 242,
       "2022-04-21": 84
     }
   },
@@ -64,36 +66,40 @@
     "url": "$SITE_4",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cms",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 124,
     "timeDay": 124,
     "timeWeek": 124,
     "timeMonth": 124,
     "timeYear": 124,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-22": 1
+    }
   },
   {
     "name": "APP",
     "url": "$SITE_5",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "app",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 95,
     "timeDay": 95,
     "timeWeek": 95,
     "timeMonth": 95,
     "timeYear": 95,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-22": 1
+    }
   },
   {
     "name": "INTG-APP",
@@ -101,18 +107,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "intg-app",
     "status": "down",
-    "uptime": "49.87%",
-    "uptimeDay": "49.87%",
-    "uptimeWeek": "49.87%",
-    "uptimeMonth": "49.87%",
-    "uptimeYear": "49.87%",
+    "uptime": "49.55%",
+    "uptimeDay": "49.55%",
+    "uptimeWeek": "49.55%",
+    "uptimeMonth": "49.55%",
+    "uptimeYear": "49.55%",
     "time": 51,
     "timeDay": 51,
     "timeWeek": 51,
     "timeMonth": 51,
     "timeYear": 51,
     "dailyMinutesDown": {
-      "2022-04-22": 239,
+      "2022-04-22": 242,
       "2022-04-21": 60
     }
   }
