@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "navigate",
     "status": "up",
-    "uptime": "69.92%",
+    "uptime": "69.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.32%",
-    "uptimeMonth": "95.56%",
-    "uptimeYear": "72.93%",
+    "uptimeMonth": "97.14%",
+    "uptimeYear": "73.00%",
     "time": 360,
     "timeDay": 183,
     "timeWeek": 265,
@@ -171,8 +171,7 @@
       "2022-05-27": 173,
       "2022-05-26": 208,
       "2022-05-25": 201,
-      "2022-05-24": 176,
-      "2022-05-23": 287
+      "2022-05-24": 176
     }
   },
   {
@@ -181,7 +180,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rancher",
     "status": "down",
-    "uptime": "20.28%",
+    "uptime": "20.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -192,7 +191,8 @@
     "timeMonth": 0,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2023-05-22": 1392,
+      "2023-05-23": 640,
+      "2023-05-22": 1440,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -484,8 +484,7 @@
       "2022-05-27": 1440,
       "2022-05-26": 1440,
       "2022-05-25": 1440,
-      "2022-05-24": 1440,
-      "2022-05-23": 1440
+      "2022-05-24": 1440
     }
   },
   {
@@ -494,7 +493,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "redmine",
     "status": "down",
-    "uptime": "13.95%",
+    "uptime": "13.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -505,7 +504,8 @@
     "timeMonth": 0,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2023-05-22": 1392,
+      "2023-05-23": 641,
+      "2023-05-22": 1440,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -850,8 +850,7 @@
       "2022-05-27": 872,
       "2022-05-26": 872,
       "2022-05-25": 865,
-      "2022-05-24": 829,
-      "2022-05-23": 859
+      "2022-05-24": 829
     }
   },
   {
@@ -860,13 +859,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cms",
     "status": "up",
-    "uptime": "69.84%",
+    "uptime": "69.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.44%",
-    "uptimeMonth": "95.59%",
-    "uptimeYear": "72.85%",
+    "uptimeMonth": "97.17%",
+    "uptimeYear": "72.91%",
     "time": 266,
-    "timeDay": 126,
+    "timeDay": 124,
     "timeWeek": 215,
     "timeMonth": 227,
     "timeYear": 276,
@@ -1027,8 +1026,7 @@
       "2022-05-27": 172,
       "2022-05-26": 208,
       "2022-05-25": 200,
-      "2022-05-24": 175,
-      "2022-05-23": 288
+      "2022-05-24": 175
     }
   },
   {
@@ -1037,13 +1035,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "82.34%",
+    "uptime": "82.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.33%",
-    "uptimeMonth": "96.71%",
+    "uptimeMonth": "98.28%",
     "uptimeYear": "80.82%",
     "time": 156,
-    "timeDay": 51,
+    "timeDay": 71,
     "timeWeek": 113,
     "timeMonth": 124,
     "timeYear": 162,
@@ -1158,19 +1156,20 @@
     "url": "$SITE_6",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "intg-app",
-    "status": "down",
-    "uptime": "78.01%",
-    "uptimeDay": "52.06%",
+    "status": "up",
+    "uptime": "77.91%",
+    "uptimeDay": "52.08%",
     "uptimeWeek": "37.20%",
     "uptimeMonth": "40.67%",
-    "uptimeYear": "76.13%",
-    "time": 713,
-    "timeDay": 30,
-    "timeWeek": 161,
-    "timeMonth": 562,
-    "timeYear": 760,
+    "uptimeYear": "75.99%",
+    "time": 711,
+    "timeDay": 99,
+    "timeWeek": 162,
+    "timeMonth": 544,
+    "timeYear": 759,
     "dailyMinutesDown": {
-      "2023-05-22": 643,
+      "2023-05-23": 640,
+      "2023-05-22": 691,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 686,
