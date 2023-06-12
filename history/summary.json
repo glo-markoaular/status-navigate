@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "navigate",
     "status": "up",
-    "uptime": "71.28%",
+    "uptime": "71.34%",
     "uptimeDay": "96.61%",
-    "uptimeWeek": "99.51%",
+    "uptimeWeek": "99.52%",
     "uptimeMonth": "99.33%",
-    "uptimeYear": "74.43%",
+    "uptimeYear": "74.67%",
     "time": 361,
-    "timeDay": 805,
-    "timeWeek": 490,
-    "timeMonth": 367,
-    "timeYear": 389,
+    "timeDay": 843,
+    "timeWeek": 514,
+    "timeMonth": 376,
+    "timeYear": 390,
     "dailyMinutesDown": {
       "2023-06-11": 49,
       "2023-06-04": 47,
@@ -158,8 +158,7 @@
       "2022-06-20": 234,
       "2022-06-19": 1440,
       "2022-06-18": 1228,
-      "2022-06-13": 220,
-      "2022-06-12": 1440
+      "2022-06-13": 220
     }
   },
   {
@@ -168,7 +167,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rancher",
     "status": "down",
-    "uptime": "19.35%",
+    "uptime": "19.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -179,7 +178,8 @@
     "timeMonth": 0,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2023-06-11": 236,
+      "2023-06-12": 49,
+      "2023-06-11": 1440,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
@@ -471,8 +471,7 @@
       "2022-06-16": 1440,
       "2022-06-15": 1440,
       "2022-06-14": 1440,
-      "2022-06-13": 1440,
-      "2022-06-12": 1440
+      "2022-06-13": 1440
     }
   },
   {
@@ -481,7 +480,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "redmine",
     "status": "down",
-    "uptime": "13.31%",
+    "uptime": "13.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -490,9 +489,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 239,
+    "timeYear": 238,
     "dailyMinutesDown": {
-      "2023-06-11": 237,
+      "2023-06-12": 49,
+      "2023-06-11": 1440,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
@@ -837,8 +837,7 @@
       "2022-06-16": 864,
       "2022-06-15": 851,
       "2022-06-14": 867,
-      "2022-06-13": 892,
-      "2022-06-12": 1440
+      "2022-06-13": 892
     }
   },
   {
@@ -847,16 +846,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cms",
     "status": "up",
-    "uptime": "71.21%",
+    "uptime": "71.27%",
     "uptimeDay": "96.65%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.39%",
-    "uptimeYear": "74.35%",
-    "time": 267,
-    "timeDay": 310,
-    "timeWeek": 294,
-    "timeMonth": 264,
-    "timeYear": 279,
+    "uptimeYear": "74.59%",
+    "time": 268,
+    "timeDay": 349,
+    "timeWeek": 295,
+    "timeMonth": 273,
+    "timeYear": 280,
     "dailyMinutesDown": {
       "2023-06-11": 48,
       "2023-06-04": 34,
@@ -1001,8 +1000,7 @@
       "2022-06-20": 234,
       "2022-06-19": 1440,
       "2022-06-18": 1227,
-      "2022-06-13": 220,
-      "2022-06-12": 1440
+      "2022-06-13": 220
     }
   },
   {
@@ -1011,15 +1009,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "83.52%",
+    "uptime": "83.55%",
     "uptimeDay": "96.68%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.33%",
     "uptimeYear": "81.24%",
     "time": 155,
-    "timeDay": 160,
-    "timeWeek": 154,
-    "timeMonth": 124,
+    "timeDay": 170,
+    "timeWeek": 152,
+    "timeMonth": 130,
     "timeYear": 160,
     "dailyMinutesDown": {
       "2023-06-11": 48,
@@ -1133,18 +1131,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "intg-app",
     "status": "down",
-    "uptime": "79.58%",
+    "uptime": "79.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "43.92%",
-    "uptimeMonth": "41.92%",
-    "uptimeYear": "76.76%",
+    "uptimeMonth": "39.29%",
+    "uptimeYear": "76.52%",
     "time": 741,
     "timeDay": 0,
     "timeWeek": 2643,
     "timeMonth": 937,
     "timeYear": 817,
     "dailyMinutesDown": {
-      "2023-06-11": 237,
+      "2023-06-12": 49,
+      "2023-06-11": 1440,
       "2023-06-10": 1440,
       "2023-06-09": 687,
       "2023-06-08": 707,
