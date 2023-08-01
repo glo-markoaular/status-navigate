@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "navigate",
     "status": "up",
-    "uptime": "74.36%",
+    "uptime": "74.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.44%",
-    "uptimeYear": "78.71%",
+    "uptimeYear": "78.77%",
     "time": 370,
     "timeDay": 165,
     "timeWeek": 258,
     "timeMonth": 396,
-    "timeYear": 388,
+    "timeYear": 389,
     "dailyMinutesDown": {
       "2023-07-30": 55,
       "2023-07-23": 57,
@@ -143,8 +143,7 @@
       "2022-08-13": 1246,
       "2022-08-08": 237,
       "2022-08-07": 1440,
-      "2022-08-06": 1257,
-      "2022-08-01": 259
+      "2022-08-06": 1257
     }
   },
   {
@@ -153,7 +152,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rancher",
     "status": "down",
-    "uptime": "17.24%",
+    "uptime": "17.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -164,7 +163,8 @@
     "timeMonth": 0,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2023-07-31": 1393,
+      "2023-08-01": 642,
+      "2023-07-31": 1440,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
@@ -456,8 +456,7 @@
       "2022-08-05": 1440,
       "2022-08-04": 1440,
       "2022-08-03": 1440,
-      "2022-08-02": 1440,
-      "2022-08-01": 1440
+      "2022-08-02": 1440
     }
   },
   {
@@ -466,7 +465,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "redmine",
     "status": "down",
-    "uptime": "11.86%",
+    "uptime": "11.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -477,7 +476,8 @@
     "timeMonth": 0,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2023-07-31": 1393,
+      "2023-08-01": 642,
+      "2023-07-31": 1440,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
@@ -822,8 +822,7 @@
       "2022-08-05": 1440,
       "2022-08-04": 1440,
       "2022-08-03": 1440,
-      "2022-08-02": 834,
-      "2022-08-01": 915
+      "2022-08-02": 834
     }
   },
   {
@@ -832,15 +831,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cms",
     "status": "up",
-    "uptime": "74.29%",
+    "uptime": "74.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.46%",
     "uptimeMonth": "99.45%",
-    "uptimeYear": "78.63%",
+    "uptimeYear": "78.69%",
     "time": 267,
     "timeDay": 180,
     "timeWeek": 226,
-    "timeMonth": 259,
+    "timeMonth": 261,
     "timeYear": 275,
     "dailyMinutesDown": {
       "2023-07-30": 55,
@@ -971,8 +970,7 @@
       "2022-08-13": 1245,
       "2022-08-08": 238,
       "2022-08-07": 1440,
-      "2022-08-06": 1256,
-      "2022-08-01": 260
+      "2022-08-06": 1256
     }
   },
   {
@@ -981,7 +979,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "86.29%",
+    "uptime": "86.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.33%",
     "uptimeMonth": "99.38%",
@@ -989,7 +987,7 @@
     "time": 154,
     "timeDay": 60,
     "timeWeek": 112,
-    "timeMonth": 129,
+    "timeMonth": 130,
     "timeYear": 150,
     "dailyMinutesDown": {
       "2023-07-30": 67,
@@ -1094,19 +1092,20 @@
     "url": "$SITE_6",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "intg-app",
-    "status": "down",
-    "uptime": "81.48%",
-    "uptimeDay": "52.76%",
-    "uptimeWeek": "37.33%",
-    "uptimeMonth": "39.98%",
-    "uptimeYear": "76.34%",
-    "time": 692,
-    "timeDay": 258,
-    "timeWeek": 184,
-    "timeMonth": 148,
+    "status": "up",
+    "uptime": "81.39%",
+    "uptimeDay": "52.11%",
+    "uptimeWeek": "37.28%",
+    "uptimeMonth": "38.41%",
+    "uptimeYear": "76.21%",
+    "time": 690,
+    "timeDay": 32,
+    "timeWeek": 143,
+    "timeMonth": 146,
     "timeYear": 797,
     "dailyMinutesDown": {
-      "2023-07-31": 633,
+      "2023-08-01": 642,
+      "2023-07-31": 680,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 693,
