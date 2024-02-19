@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 412,
     "dailyMinutesDown": {
-      "2024-02-19": 1154,
+      "2024-02-19": 1178,
       "2024-02-18": 1440,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
@@ -182,7 +182,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-19": 1154,
+      "2024-02-19": 1178,
       "2024-02-18": 1440,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
@@ -556,7 +556,7 @@
     "slug": "redmine",
     "status": "up",
     "uptime": "28.40%",
-    "uptimeDay": "29.29%",
+    "uptimeDay": "30.99%",
     "uptimeWeek": "29.49%",
     "uptimeMonth": "26.43%",
     "uptimeYear": "10.03%",
@@ -943,7 +943,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.31%",
     "uptimeMonth": "60.56%",
-    "uptimeYear": "91.15%",
+    "uptimeYear": "91.16%",
     "time": 320,
     "timeDay": 402,
     "timeWeek": 615,
@@ -1128,15 +1128,15 @@
     "url": "$SITE_6",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "intg-app",
-    "status": "up",
-    "uptime": "88.17%",
-    "uptimeDay": "5.87%",
-    "uptimeWeek": "7.88%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "78.32%",
+    "status": "down",
+    "uptime": "88.25%",
+    "uptimeDay": "7.55%",
+    "uptimeWeek": "8.12%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "78.45%",
     "time": 231,
-    "timeDay": 139,
-    "timeWeek": 135,
+    "timeDay": 135,
+    "timeWeek": 134,
     "timeMonth": 137,
     "timeYear": 231,
     "dailyMinutesDown": {
@@ -1254,8 +1254,7 @@
       "2023-10-30": 410,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
-      "2023-10-27": 688,
-      "2023-10-26": 49
+      "2023-10-27": 48
     }
   }
 ]
