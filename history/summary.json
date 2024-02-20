@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "navigate",
     "status": "down",
-    "uptime": "68.76%",
+    "uptime": "68.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2024-02-20": 1153,
+      "2024-02-20": 1165,
       "2024-02-19": 1440,
       "2024-02-18": 1440,
       "2024-02-17": 1440,
@@ -182,7 +182,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-20": 1153,
+      "2024-02-20": 1165,
       "2024-02-19": 1440,
       "2024-02-18": 1440,
       "2024-02-17": 1440,
@@ -558,7 +558,7 @@
     "uptime": "28.51%",
     "uptimeDay": "41.00%",
     "uptimeWeek": "29.50%",
-    "uptimeMonth": "27.34%",
+    "uptimeMonth": "27.37%",
     "uptimeYear": "10.14%",
     "time": 363,
     "timeDay": 220,
@@ -1127,15 +1127,15 @@
     "url": "$SITE_6",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "intg-app",
-    "status": "up",
-    "uptime": "89.06%",
-    "uptimeDay": "13.48%",
-    "uptimeWeek": "8.03%",
-    "uptimeMonth": "0.42%",
-    "uptimeYear": "79.93%",
+    "status": "down",
+    "uptime": "89.11%",
+    "uptimeDay": "13.50%",
+    "uptimeWeek": "8.14%",
+    "uptimeMonth": "0.45%",
+    "uptimeYear": "80.00%",
     "time": 228,
-    "timeDay": 122,
-    "timeWeek": 134,
+    "timeDay": 116,
+    "timeWeek": 133,
     "timeMonth": 134,
     "timeYear": 226,
     "dailyMinutesDown": {
@@ -1241,8 +1241,7 @@
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 402,
-      "2023-11-09": 399,
-      "2023-11-08": 49
+      "2023-11-09": 48
     }
   }
 ]
