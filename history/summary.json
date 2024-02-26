@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 414,
     "dailyMinutesDown": {
-      "2024-02-26": 632,
+      "2024-02-26": 645,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
       "2024-02-23": 1440,
@@ -186,7 +186,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-26": 632,
+      "2024-02-26": 645,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
       "2024-02-23": 1440,
@@ -570,7 +570,7 @@
     "timeMonth": 173,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2024-02-26": 632,
+      "2024-02-26": 645,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
       "2024-02-23": 851,
@@ -946,8 +946,8 @@
     "uptime": "83.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.32%",
-    "uptimeMonth": "66.74%",
-    "uptimeYear": "91.59%",
+    "uptimeMonth": "66.77%",
+    "uptimeYear": "91.60%",
     "time": 343,
     "timeDay": 609,
     "timeWeek": 1477,
@@ -1047,7 +1047,7 @@
     "uptime": "92.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.32%",
-    "uptimeMonth": "85.86%",
+    "uptimeMonth": "85.89%",
     "uptimeYear": "94.46%",
     "time": 203,
     "timeDay": 57,
@@ -1129,15 +1129,15 @@
     "url": "$SITE_6",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "intg-app",
-    "status": "up",
-    "uptime": "91.51%",
-    "uptimeDay": "2.38%",
-    "uptimeWeek": "11.48%",
-    "uptimeMonth": "2.48%",
-    "uptimeYear": "84.28%",
-    "time": 213,
-    "timeDay": 145,
-    "timeWeek": 132,
+    "status": "down",
+    "uptime": "91.68%",
+    "uptimeDay": "3.21%",
+    "uptimeWeek": "11.60%",
+    "uptimeMonth": "2.51%",
+    "uptimeYear": "84.61%",
+    "time": 212,
+    "timeDay": 130,
+    "timeWeek": 131,
     "timeMonth": 133,
     "timeYear": 211,
     "dailyMinutesDown": {
@@ -1204,8 +1204,7 @@
       "2023-12-28": 406,
       "2023-12-27": 407,
       "2023-12-26": 396,
-      "2023-12-25": 398,
-      "2023-12-24": 1369
+      "2023-12-25": 50
     }
   }
 ]
