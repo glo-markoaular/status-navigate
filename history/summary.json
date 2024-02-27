@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 415,
     "dailyMinutesDown": {
-      "2024-02-27": 532,
+      "2024-02-27": 550,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
@@ -186,7 +186,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-27": 532,
+      "2024-02-27": 551,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
@@ -570,7 +570,7 @@
     "timeMonth": 171,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2024-02-27": 532,
+      "2024-02-27": 551,
       "2024-02-26": 839,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
@@ -946,7 +946,7 @@
     "uptime": "83.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.32%",
-    "uptimeMonth": "69.80%",
+    "uptimeMonth": "69.85%",
     "uptimeYear": "91.79%",
     "time": 342,
     "timeDay": 215,
@@ -1046,7 +1046,7 @@
     "uptime": "92.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.32%",
-    "uptimeMonth": "88.92%",
+    "uptimeMonth": "88.96%",
     "uptimeYear": "94.55%",
     "time": 203,
     "timeDay": 9,
@@ -1128,16 +1128,16 @@
     "url": "$SITE_6",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "intg-app",
-    "status": "up",
-    "uptime": "98.03%",
-    "uptimeDay": "13.44%",
-    "uptimeWeek": "11.62%",
-    "uptimeMonth": "56.24%",
-    "uptimeYear": "96.35%",
+    "status": "down",
+    "uptime": "98.06%",
+    "uptimeDay": "14.70%",
+    "uptimeWeek": "11.80%",
+    "uptimeMonth": "56.81%",
+    "uptimeYear": "96.40%",
     "time": 210,
-    "timeDay": 122,
+    "timeDay": 126,
     "timeWeek": 127,
-    "timeMonth": 132,
+    "timeMonth": 133,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2024-02-27": 479,
@@ -1155,7 +1155,7 @@
       "2024-02-15": 1286,
       "2024-02-14": 1341,
       "2024-02-13": 1224,
-      "2024-02-12": 489
+      "2024-02-12": 239
     }
   }
 ]
