@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2024-03-05": 773,
+      "2024-03-05": 793,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
       "2024-03-02": 1440,
@@ -179,7 +179,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rancher",
     "status": "down",
-    "uptime": "11.76%",
+    "uptime": "11.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -190,7 +190,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-05": 773,
+      "2024-03-05": 793,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
       "2024-03-02": 1440,
@@ -726,7 +726,7 @@
     "uptime": "83.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.31%",
-    "uptimeMonth": "95.32%",
+    "uptimeMonth": "95.36%",
     "uptimeYear": "92.16%",
     "time": 351,
     "timeDay": 572,
@@ -904,15 +904,15 @@
     "url": "$SITE_6",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "intg-app",
-    "status": "up",
-    "uptime": "98.01%",
-    "uptimeDay": "15.99%",
-    "uptimeWeek": "9.50%",
-    "uptimeMonth": "55.32%",
-    "uptimeYear": "96.28%",
+    "status": "down",
+    "uptime": "98.04%",
+    "uptimeDay": "17.38%",
+    "uptimeWeek": "9.66%",
+    "uptimeMonth": "56.01%",
+    "uptimeYear": "96.33%",
     "time": 198,
     "timeDay": 128,
-    "timeWeek": 130,
+    "timeWeek": 129,
     "timeMonth": 131,
     "timeYear": 195,
     "dailyMinutesDown": {
@@ -931,7 +931,7 @@
       "2024-02-22": 1189,
       "2024-02-21": 1072,
       "2024-02-20": 1243,
-      "2024-02-19": 822
+      "2024-02-19": 520
     }
   }
 ]
