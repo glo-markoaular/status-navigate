@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2024-03-22": 972,
+      "2024-03-22": 991,
       "2024-03-21": 1440,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
@@ -201,7 +201,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-22": 972,
+      "2024-03-22": 991,
       "2024-03-21": 1440,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
@@ -909,12 +909,12 @@
     "url": "$SITE_6",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "intg-app",
-    "status": "up",
-    "uptime": "98.58%",
-    "uptimeDay": "14.15%",
-    "uptimeWeek": "10.42%",
-    "uptimeMonth": "67.20%",
-    "uptimeYear": "97.27%",
+    "status": "down",
+    "uptime": "98.59%",
+    "uptimeDay": "14.61%",
+    "uptimeWeek": "10.60%",
+    "uptimeMonth": "67.45%",
+    "uptimeYear": "97.29%",
     "time": 179,
     "timeDay": 139,
     "timeWeek": 143,
@@ -932,7 +932,7 @@
       "2024-03-14": 1278,
       "2024-03-13": 1241,
       "2024-03-12": 1220,
-      "2024-03-11": 728
+      "2024-03-11": 620
     }
   }
 ]
